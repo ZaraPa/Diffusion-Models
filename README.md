@@ -1,1 +1,1 @@
-# Diffusion-Models
+# Inpainting using Denoising Diffusion Probabilistic Models 
